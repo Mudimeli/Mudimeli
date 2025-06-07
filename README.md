@@ -3,7 +3,7 @@
 🖥️ Computer Science Student based in South Africa<br/>
 💡 Familiar with **HTML, CSS, JAVASCRIPT, C++, JAVA, My SQL**<br/>
 🔏 Computer Networks & Security<br/>
-🚀 Aspiring **Network Engineer/Cyber Security**<br/>
+🚀 Aspiring **Network Engineer/Network Security**<br/>
 😄 Welcome To my GitHub Profile #Everything Tech🌍💻<br/>
 
 
